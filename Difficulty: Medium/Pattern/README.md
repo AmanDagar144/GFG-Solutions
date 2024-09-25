@@ -1,0 +1,16 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/pattern/1?page=1&category=pattern-printing&sortBy=submissions">Pattern</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO" style="user-select: text;"><p style="user-select: text;"><span style="font-size: 18px; user-select: text;">Geek is very fond of patterns. Once, his teacher gave him <strong style="user-select: text;">a&nbsp;star pattern</strong> to solve. He gave Geek&nbsp;an integer <strong style="user-select: text;">n</strong> and asked him to build a pattern.</span></p>
+<p style="user-select: text;"><span style="font-size: 18px; user-select: text;">Help Geek to&nbsp;build <strong style="user-select: text;">a star pattern</strong>.</span></p>
+<p style="user-select: text;"><span style="font-size: 18px; user-select: text;"><strong style="user-select: text;">Example 1:</strong></span></p>
+<pre style="user-select: text;"><span style="font-size: 18px; user-select: text;"><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/711496/Web/Other/blobid2_1713205237.png" alt="" style="user-select: text;">
+</span></pre>
+<p style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; white-space: normal; user-select: text;"><span style="font-size: 18px; user-select: text;"><strong style="user-select: text;">Example 2:</strong></span></p>
+<pre style="user-select: text;"><span style="font-size: 18px; user-select: text;"><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/711496/Web/Other/blobid3_1713205237.png" alt="" style="user-select: text;">
+</span>
+</pre>
+<p style="user-select: text;"><span style="font-size: 18px; user-select: text;"><strong style="user-select: text;">Your Task:</strong></span></p>
+<p style="user-select: text;"><span style="font-size: 18px; user-select: text;">You don't need to input anything. Complete the function <strong style="user-select: text;">printDiamond()&nbsp;</strong>which takes an integer<strong style="user-select: text;"> n</strong> <strong style="user-select: text;">&nbsp;</strong>as the input parameter and prints the pattern.</span></p>
+<p style="user-select: text;"><span style="font-size: 18px; user-select: text;"><strong style="user-select: text;">Expected Time Complexity:</strong> O(N<sup style="user-select: text;">2</sup>)<br style="user-select: text;"><strong style="user-select: text;">Expected Auxiliary Space:</strong> O(1)</span></p>
+<p style="user-select: text;"><span style="font-size: 18px; user-select: text;"><strong style="user-select: text;">Constraints:</strong></span></p>
+<ul style="user-select: text;">
+<li style="user-select: text;"><span style="font-size: 18px; user-select: text;">1&lt;= <strong style="user-select: text;">n</strong> &lt;= 100</span></li>
+</ul></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>pattern-printing</code>&nbsp;<code>Mathematical</code>&nbsp;
