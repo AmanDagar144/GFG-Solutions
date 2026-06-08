@@ -1,0 +1,7 @@
+class Solution:
+    def cToF(self,C):
+        # code here
+        f = (C*9/5)+32
+        return f
+        
+    
