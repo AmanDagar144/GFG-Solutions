@@ -5,3 +5,7 @@ class Solution:
         # code here
         return(s[::-1])
         
+        # rev = ""
+        # for i in s:
+        #     rev = i+rev
+        # return rev
